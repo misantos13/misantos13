@@ -16,9 +16,10 @@ Tive um contato mais ativo com a tecnologia quando cedo na escola primária, mas
 
 <div style="display: inline_block"><br>
  <img align="center" alt="Python" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> Python
+ 
 <img align="center" alt="Java" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> Java
 
 ---
 
