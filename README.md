@@ -10,6 +10,8 @@
 
 Tive um contato mais ativo com a tecnologia quando cedo na escola primária, mas realmente só fui me aprofundar quando fiz o Técnico de Informática na ETEC em 2013. Passei alguns anos afastada da área, mas resolvi retornar, hoje estou cursando o Técnico de Desenvolvimento de Sistemas para aprofundar os meus conhecimentos na área.
 
+![octocat](octocat-1787420683442.png)
+
 ---
 
 # Tecnologias que estudo 🧑‍💻
