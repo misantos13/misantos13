@@ -17,7 +17,7 @@ Hoje estou cursando o Técnico de Desenvolvimento de Sistemas, também pela ETEC
 
 ---
 
-# Tecnologias que estudo 🧑‍💻
+# Tecnologias 🧑‍💻
 
 <div style="display: inline_block"><br>
  <img align="center" alt="Python" height="40" width="40"
