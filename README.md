@@ -10,7 +10,8 @@
 
 <img src="octocat-1787420683442.png" alt="Octocat" width="120" align="left">
 
-Tive um contato mais ativo com a tecnologia cedo, sendo na escola primária, mas realmente só fui me aprofundar quando fiz o Técnico de Informática na ETEC em 2013. Passei alguns anos afastada da área, retornando agora em 2026. Hoje estou cursando o Técnico de Desenvolvimento de Sistemas também pela ETEC para atualizar e aprofundar os meus conhecimentos na área e voltar para esse meio que tanto me interessa.
+Tive um contato mais ativo com a tecnologia cedo, sendo na escola primária, mas realmente só fui me aprofundar quando fiz o Técnico de Informática na ETEC em 2013. Passei alguns anos afastada da área, retornando agora em 2026. 
+Hoje estou cursando o Técnico de Desenvolvimento de Sistemas, também pela ETEC, para atualizar e aprofundar os meus conhecimentos na área e voltar para esse meio que tanto me interessa.
 
 <br clear="left">
 
