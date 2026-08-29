@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá, eu sou a Camila! 👋
 
-<!--
-**misantos13/misantos13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Desenvolvimento de Sistemas
+💻 Programação em JAVA e iniciando em Python
+💪 Me preparando para o mercado de tecnologia
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Sobre mim 🙋
+
+Tive um contato mais ativo com a tecnologia quando cedo na escola primária, mas realmente só fui me aprofundar quando fiz o Técnico de Informática na ETEC em 2013. Passei alguns anos afastada da área, mas resolvi retornar, hoje estou cursando o Técnico de Desenvolvimento de Sistemas para aprofundar os meus conhecimentos na área.
+
+---
+
+# Tecnologias que estudo 🧑‍💻
+
+<div style="display: inline_block"><br>
+ <img align="center" alt="Python" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
+<img align="center" alt="Java" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
+
+---
+
+# Vamos nos conhecer! 🤝
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-ferreira-santos-754816141/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:24.mi.santos@gmail.com)
+
