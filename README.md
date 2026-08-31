@@ -14,6 +14,7 @@ Tive um contato mais ativo com a tecnologia cedo, sendo na escola primária, mas
 Hoje estou cursando o Técnico de Desenvolvimento de Sistemas, também pela ETEC, para atualizar e aprofundar os meus conhecimentos na área e voltar para esse meio que tanto me interessa.
 
 <br clear="left">
+
 ---
 
 # Tecnologias 🧑‍💻
