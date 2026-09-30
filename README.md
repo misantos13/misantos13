@@ -1,7 +1,7 @@
 # Olá, eu sou a Camila! 👋
 
 - 🎓 Estudante de Desenvolvimento de Sistemas
-- 💻 Programação em JAVA e iniciando em Python
+- 💻 Estudante de JAVA, Python e Node.js
 - 💪 Me preparando para o mercado de tecnologia
 
 ---
